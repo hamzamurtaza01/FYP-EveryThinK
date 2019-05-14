@@ -41,4 +41,4 @@ def getdatas():
 
 
 if __name__ == '__main__':
-    app.run(port=9567,host='https://fyp-everythink.herokuapp.com/',debug=True)
+    app.run(port=8888,host='127.0.0.1',debug=True)
